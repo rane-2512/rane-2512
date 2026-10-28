@@ -130,6 +130,7 @@ I am interested in opportunities related to:
 - Product Analyst
 - Power BI Developer
 - Junior Data Analyst
+- Database administrator
 - Software / Application Development
 
 ---
